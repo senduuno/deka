@@ -1,4 +1,4 @@
-# deka
+# deka 
 https://raw.githubusercontent.com/senduuno/15-05/main/165540_E6l_icon.ico
 
 https://raw.githubusercontent.com/senduuno/15-05/main/165745_SnN_icon.ico
